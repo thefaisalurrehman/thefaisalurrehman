@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Android App developer
+- A passionate Self-taught Android App Developer
 - Currently learning Jetpack Compose by Self
-- Lead Android Team at website [SoftAxes](https://www.softaxes.com)
+- Lead Android Team at [SoftAxes](https://www.softaxes.com)
 - I’m currently open for Remote job opportunity, this is [my resume](./assets/resume/resume.pdf)
 
 <br><br>
