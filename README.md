@@ -23,8 +23,8 @@
 
 - A passionate Self-taught Mobile(Android & IOS) App Developer.
 - Currently working with Jetpack Compose, SwiftUI & KMM(Kotlin multiplatform)
-- Lead Android Team at [SoftAxes](https://www.softaxes.com)
-- I’m currently open for a Remote job opportunity, this is [my resume](./assets/resume/resume.pdf)
+- Lead Android Team at [SoftAxes](https://www.softaxes.com/#team)
+- I’m currently available to build mobile apps for both platforms (IOS & Android) Contact me at +923446081581
 
 <br><br>
 
