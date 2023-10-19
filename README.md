@@ -21,8 +21,8 @@
 
 <br>
 
-- A passionate Self-taught Android App Developer
-- Currently working with Jetpack Compose
+- A passionate Self-taught Mobile(Android & IOS) App Developer.
+- Currently working with Jetpack Compose, SwiftUI & KMM(Kotlin multiplatform)
 - Lead Android Team at [SoftAxes](https://www.softaxes.com)
 - I’m currently open for a Remote job opportunity, this is [my resume](./assets/resume/resume.pdf)
 
