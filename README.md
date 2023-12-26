@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi , I'm Faisal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Android-App+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+KMM+Developer,;(Android & IOS),;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -24,7 +24,7 @@
 - A passionate Self-taught Mobile(Android & IOS) App Developer.
 - Currently working with Jetpack Compose, SwiftUI & KMM(Kotlin multiplatform)
 - Lead Android Team at [SoftAxes](https://www.softaxes.com/#team)
-- I’m currently available to build mobile apps for both platforms (IOS & Android) Contact me at +923446081581
+- I’m currently available to build mobile apps for both platforms (IOS & Android) Whatsapp me at +923446081581
 
 <br><br>
 
