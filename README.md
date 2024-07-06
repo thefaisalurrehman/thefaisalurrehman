@@ -25,6 +25,8 @@
 - Currently working with Jetpack Compose, SwiftUI & KMM(Kotlin multiplatform)
 - Lead Android Team at [SoftAxes](https://www.softaxes.com/#team)
 - I’m currently available to build mobile apps for both platforms (IOS & Android) Whatsapp me at +923446081581
+- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thefaisalurrehman)
 
 <br><br>
 
